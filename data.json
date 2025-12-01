@@ -1,0 +1,14 @@
+[
+   {
+      "endpoint":"products",
+      "productname":"key"
+   },
+   {
+      "endpoint":"products",
+      "productname":"pen"
+   },
+   {
+      "endpoint":"products",
+      "productname":"pencil"
+   }
+]
